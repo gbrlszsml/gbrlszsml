@@ -1,16 +1,7 @@
-- 👋 Hi, I’m @gbrlszsml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-gbrlszsml/gbrlszsml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Hello World!
 ### Bem-vindo(a) 👋
-## Eu sou o, Gabriel Souza ✨
+## Eu sou o, Gabriel
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)
 - 📍 Presidente Prudente - São Paulo
@@ -35,4 +26,4 @@ You can click the Preview link to take a look at your changes.
    <a href="http://api.whatsapp.com/send?phone=5518997522430" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   </br>
  
-![Snake animation](https://github.com/Gbrlszsml/Ferbatman/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/Gbrlszsml/Gbrlszsml/blob/output/github-contribution-grid-snake.svg) 
