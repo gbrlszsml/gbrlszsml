@@ -1,10 +1,5 @@
-
-### Hello World!
 ### "Não! Tente não, faça ou não faça! Tentativa não há..."
-## Olá sem vogais e sem tempo ruim, comigo é alegria consoantes. Ou seria o quanto antes?!
-
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)
-- 📍 Presidente Prudente - São Paulo
 - 💻 Tecnologias:</br>
 ° React, </br>
 ° JavaSricpt, </br>
@@ -23,6 +18,8 @@
   <img align="center" alt="Gbrlszsml-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  </div>
-   <a href="http://api.whatsapp.com/send?phone=5518997522430" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <div align="center">
+    <a href="http://api.whatsapp.com/send?phone=5518997522430" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
   </br>
 
