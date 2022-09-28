@@ -1,7 +1,7 @@
 
 ### Hello World!
-### Bem-vindo(a) 👋
-## Eu sou o, Gabriel
+### "Não! Tente não, faça ou não faça! Tentativa não há..."
+## Olá sem vogais e sem tempo ruim, comigo é alegria consoantes. Ou seria o quanto antes?!
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)
 - 📍 Presidente Prudente - São Paulo
