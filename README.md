@@ -1,17 +1,9 @@
 ### "Não! Tente não, faça ou não faça! Tentativa não há..."
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)
-- 💻 Tecnologias:</br>
-° React, </br>
-° JavaSricpt, </br>
-° CSS </br>
-° HTML </br>
-° MySQL </br>
-° Python </br>
-° C# </br>
+
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)🌱
 <div align="center">
   <a href="https://github.com/gbrlszsml">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?
-username=gbrlszsml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlszsml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlszsml&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
