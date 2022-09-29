@@ -3,7 +3,8 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (FATEC-PP)🌱
 <div align="center">
   <a href="https://github.com/gbrlszsml">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlszsml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?
+username=gbrlszsml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlszsml&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
@@ -14,8 +15,9 @@
   <img align="center" alt="Gbrlszsml-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gbrlszsml-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gbrlszsml-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://orangemushroom.files.wordpress.com/2012/08/super-nova-effect.gif"
+src="http://orangemushroom.files.wordpress.com/2012/08/super-nova-effect.gif">
 </div>
-  
   ##
  
  <div>
